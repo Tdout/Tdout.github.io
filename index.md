@@ -1,5 +1,5 @@
 <h1>欢迎来到我的主页</h1>
 <ul>
-  <li><a="https://baidu.com">日志</a></li>
+  <li><a="https://www.baidu.com">日志</a></li>
   <li><a>关于我</a></li>
 </ul>
